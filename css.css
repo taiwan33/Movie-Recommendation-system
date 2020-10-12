@@ -1,0 +1,47 @@
+div.btn_btn-success{
+    background-color: sienna;
+    padding: 10px;
+}
+div.panel_panel-default{
+    
+    background-color: burlywood;
+    text-align: center;
+    padding: 10px;
+}
+div.panel-body{
+    background-color: gray;
+}
+title.title{
+    color: sienna;
+    background-color: sienna;
+}
+div.well_text-center{
+    background-color: violet;
+    text-align: center;
+    padding: 10px;
+}
+
+table.panel-body{
+    text-align: center;
+}
+
+table.table_table-striped{
+    
+        margin-left: auto;
+        margin-right: auto;
+}
+h3{
+    text-align: center;
+}
+
+.container{
+    display: grid;
+}
+
+
+.header{
+    margin: 0px;
+}
+.form-group{
+    margin-right: auto;
+}
