@@ -1,0 +1,120 @@
+div.btn_btn-success{
+    background-color: sienna;
+    padding: 10px;
+}
+div.panel_panel-default{
+    background-color: rgb(255, 196, 0);
+    text-align: center;
+    padding: 10px;
+    background-attachment: fixed;
+}
+div.panel-body{
+    background-color: gray;
+    
+}
+title.title{
+    color: sienna;
+   
+}
+div.well_text-center{
+    background-color:rgb(96 125 139 / 52%);
+    text-align: center;
+    padding: 10px;
+    background-attachment: fixed;
+
+
+
+}
+
+table.panel-body{
+    text-align: center;
+}
+
+table.table_table-striped{
+    
+        margin-left: auto;
+        margin-right: auto;
+}
+h2{
+    text-align: center;
+}
+
+.container{
+    display: grid;
+}
+
+
+.form-group{
+    margin-right: auto;
+}
+div.btn_btn-info_pull-right{
+    background-color: seagreen;
+}
+div.back-to-top-wrapper{
+    
+        display: inline-block;
+        text-decoration: none;
+        font-size: 200rem;
+        line-height: 300rem;
+        text-align: center;
+        width: 3rem;
+        height: 3rem;
+        border-radius: 50%;
+        background-color: #D6E3F0;
+        padding: 0.25rem;
+        
+}
+
+.btn{
+color: rgb(255, 0, 0);
+
+}
+
+body{
+    background:url(11.jpg); 
+    background-attachment: fixed;
+    background-position:center center;
+     height:auto;
+       background-repeat:no-repeat;
+        background-size:cover ;
+        color: #f1f1f1;
+
+}
+body:before {
+    content: "";
+    display: block;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+body.h2{
+    text-align: center;
+    
+}
+.center{
+    background-color:rgb(96 125 139 / 52%);
+    text-align: center;
+    padding: 10px;
+    background-attachment: fixed;
+}
+a.btn{
+    text-align: right;
+    
+}
+.right{
+    text-align: right;
+}
+center.page{
+    color: whitesmoke;
+}
+div.line{
+    display: inline-grid;
+    /* grid-template-columns: auto auto auto ; */
+  
+    grid-auto-rows: minmax(100px, auto);
+    
+}
